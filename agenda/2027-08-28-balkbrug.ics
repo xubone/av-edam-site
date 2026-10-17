@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-08-28-balkbrug@av-edam-survivalrun
+DTSTAMP:20261017T175034Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Survivalrun Balkbrug
+LOCATION:De Haar 5\, 7707 PK Balkbrug
+DESCRIPTION:6\, 9 km · 6 jaar\nKalender AV Edam: https://xubone.github.io/
+ av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

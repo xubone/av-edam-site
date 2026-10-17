@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-06-enschede@av-edam-survivalrun
+DTSTAMP:20261017T175034Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Survivalrun Enschede
+LOCATION:Blikkersmaatweg 15\, Enschede
+DESCRIPTION:KSR\, BSR · 6 - 9 km · vanaf 8 jaar\nInschrijven: https://www
+ .uvponline.nl/uvponlineF/inschrijven/469\nKalender AV Edam: https://xubone
+ .github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

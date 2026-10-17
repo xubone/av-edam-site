@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-22-adegem-b@av-edam-survivalrun
+DTSTAMP:20261017T175034Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Survivalrun Adegem (B)
+LOCATION:Moerwege 36A\, 9981 Maldegem\, België
+DESCRIPTION:LSR\, MSR · 7 - 10 - 18 km · vanaf 12 jaar\nInschrijven: http
+ s://www.uvponline.nl/uvponlineF/inschrijven/294\nKalender AV Edam: https:/
+ /xubone.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

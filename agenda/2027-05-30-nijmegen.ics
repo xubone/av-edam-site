@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-05-30-nijmegen@av-edam-survivalrun
+DTSTAMP:20261017T175034Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Survivalrun Nijmegen
+LOCATION:Park Brakkenstein\, Nijmegen
+DESCRIPTION:5 - 8 km · vanaf 15 jaar\nKalender AV Edam: https://xubone.git
+ hub.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

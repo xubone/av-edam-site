@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-06-27-survivalrun-sneek@av-edam-survivalrun
+DTSTAMP:20261017T175034Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Survivalrun Survivalrun Sneek
+LOCATION:Thomas Zandstrastraat 2\, 8602 CW Sneek
+DESCRIPTION:5 - 8 km · Vanaf 15 jaar\nKalender AV Edam: https://xubone.git
+ hub.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
