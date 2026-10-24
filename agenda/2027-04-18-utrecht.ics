@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-04-18-utrecht@av-edam-survivalrun
+DTSTAMP:20261024T180306Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Survivalrun Utrecht
+LOCATION:Uppsalalaan 3\, 3584 CT Utrecht
+DESCRIPTION:6 - 10 km · vanaf 16 jaar\nKalender AV Edam: https://xubone.gi
+ thub.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

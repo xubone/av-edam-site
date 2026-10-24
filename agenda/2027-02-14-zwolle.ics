@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-02-14-zwolle@av-edam-survivalrun
+DTSTAMP:20261024T180306Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Survivalrun Zwolle
+LOCATION:Marsweg 2 \, 8133 PD Zwolle
+DESCRIPTION:MSR\, KSR\, JSR\, BSR · 5 - 9 km · vanaf 6 jaar\nInschrijven:
+  https://www.uvponline.nl/uvponlineF/inschrijven/470\nKalender AV Edam: ht
+ tps://xubone.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

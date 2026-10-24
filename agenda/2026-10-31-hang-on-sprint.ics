@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-31-hang-on-sprint@av-edam-survivalrun
+DTSTAMP:20261024T180306Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Survivalrun Hang On Sprint
+LOCATION:Hydeparklaan\, 3941 ZK Doorn
+DESCRIPTION:5 km · vanaf 8 jaar\nInschrijven: https://www.uvponline.nl/uvp
+ onlineF/inschrijven/475\nKalender AV Edam: https://xubone.github.io/av-eda
+ m-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

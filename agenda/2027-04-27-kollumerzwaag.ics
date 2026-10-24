@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-04-27-kollumerzwaag@av-edam-survivalrun
+DTSTAMP:20261024T180306Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Survivalrun Kollumerzwaag
+LOCATION:Foarwei 116\, Kollumerzwaag
+DESCRIPTION:4 - 8 km · vanaf 6 jaar\nKalender AV Edam: https://xubone.gith
+ ub.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

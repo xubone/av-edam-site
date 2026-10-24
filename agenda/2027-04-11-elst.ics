@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-04-11-elst@av-edam-survivalrun
+DTSTAMP:20261024T180306Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Survivalrun Elst
+LOCATION:Rijkerswoerdsestraat 4\, 6845 AB Arnhem
+DESCRIPTION:KSR\, BSR · 5\, 8 km · 10 jaar\nKalender AV Edam: https://xub
+ one.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

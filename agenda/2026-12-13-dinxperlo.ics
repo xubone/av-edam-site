@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-13-dinxperlo@av-edam-survivalrun
+DTSTAMP:20261024T180306Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Survivalrun Dinxperlo (ONK JSR)
+LOCATION:Hoge Heurnseweg 1\, Dinxperlo
+DESCRIPTION:KSR\, JSR · 5 - 7 km · vanaf 8 jaar\nInschrijven: https://www
+ .uvponline.nl/uvponlineF/inschrijven/295\nKalender AV Edam: https://xubone
+ .github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
