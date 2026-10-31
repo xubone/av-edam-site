@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-01-30-gendringen@av-edam-survivalrun
+DTSTAMP:20261031T083126Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Survivalrun Gendringen (za)
+LOCATION:Waalstraat 5\, 7081 AJ Gendringen
+DESCRIPTION:KSR\, JSR · 5 - 9 km · vanaf 10 jaar\nInschrijven: https://ww
+ w.uvponline.nl/uvponlineF/inschrijven/286\nKalender AV Edam: https://xubon
+ e.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

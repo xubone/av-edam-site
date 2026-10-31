@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-vollenhove@av-edam-survivalrun
+DTSTAMP:20261031T083126Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Survivalrun Vollenhove (ONK MSR)
+LOCATION:Godfried van Rhenenlaan 2\, 8325 EX Vollenhove
+DESCRIPTION:MSR\, JSR\, BSR · 6 - 9 - 13 km · vanaf 8 jaar\nInschrijven: 
+ https://www.uvponline.nl/uvponlineF/inschrijven/309\nKalender AV Edam: htt
+ ps://xubone.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

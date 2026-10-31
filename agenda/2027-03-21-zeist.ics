@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-03-21-zeist@av-edam-survivalrun
+DTSTAMP:20261031T083126Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Survivalrun Zeist
+LOCATION:Badmeester Schenkpad 12\, 3705 GK Zeist
+DESCRIPTION:KSR\, JSR\, BSR · 5 - 8 km · vanaf 8 jaar\nKalender AV Edam: 
+ https://xubone.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

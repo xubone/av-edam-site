@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-04-11-norg@av-edam-survivalrun
+DTSTAMP:20261031T083126Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Survivalrun Norg
+LOCATION:Brink 1\, 9331 AA Norg
+DESCRIPTION:5 - 8 km · vanaf 8 jaar\nKalender AV Edam: https://xubone.gith
+ ub.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

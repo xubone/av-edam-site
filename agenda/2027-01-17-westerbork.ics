@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-01-17-westerbork@av-edam-survivalrun
+DTSTAMP:20261031T083126Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Survivalrun Westerbork
+LOCATION:Oude Beilerweg 27\, 9431 BZ Westerbork
+DESCRIPTION:MSR\, KSR\, JSR · 5 - 9 - 13 · vanaf 8 jaar\nInschrijven: htt
+ ps://www.uvponline.nl/uvponlineF/inschrijven/297\nKalender AV Edam: https:
+ //xubone.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

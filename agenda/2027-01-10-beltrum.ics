@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-01-10-beltrum@av-edam-survivalrun
+DTSTAMP:20261031T083126Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Survivalrun Beltrum
+LOCATION:Mariaplein 1\, 7156 MG Beltrum
+DESCRIPTION:LSR · 6\,5 - 14 - 22 km · vanaf 8 jaar\nInschrijven: https://
+ www.uvponline.nl/uvponlineF/inschrijven/296\nKalender AV Edam: https://xub
+ one.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
