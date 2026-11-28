@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AV Edam survivalrun//Kalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2027-04-04-bathmen@av-edam-survivalrun
+DTSTAMP:20261128T142959Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Survivalrun Bathmen
+LOCATION:Brink 1\, 7437 AM Bathmen
+DESCRIPTION:MSR · 6\,5 - 9 - 14 km · vanaf 8 jaar\nInschrijven: https://w
+ ww.uvponline.nl/uvponlineF/inschrijven/439\nKalender AV Edam: https://xubo
+ ne.github.io/av-edam-site/kalender.html
+URL:https://xubone.github.io/av-edam-site/kalender.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
